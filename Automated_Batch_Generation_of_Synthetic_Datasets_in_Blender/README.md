@@ -38,7 +38,7 @@ An example `.blend` file is provided with a pre-configured scene.
 This script does not fully automate dataset creation. Users would manually:  
 - Replace object models, tabletop materials, and HDRI textures,  
 - Define parameter ranges for randomization based on scene requirements.  
-Tabletop material randomization is not included in the provided script because the shader nodes are wired differently across the materials in the built material library. If your material library follows a consistent node setup, you can extend the script to randomize tabletop materials and texture mappings.  
+Tabletop material randomization is not included in the provided script because the shader nodes are wired differently across the materials in the built material library, making them impossible to control with a single piece of code. If your material library follows a consistent node setup, you can extend the script to randomize tabletop materials and texture mappings.  
 
 We still recommend familiarity with the following Blender features before use:  
 - Object manipulation,  
