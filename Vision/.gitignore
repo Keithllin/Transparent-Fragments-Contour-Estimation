@@ -1,0 +1,48 @@
+# 图片文件
+*.png
+*.jpg
+*.jpeg
+*.gif
+*.bmp
+*.tiff
+*.tif
+*.svg
+*.webp
+
+# 输出文件夹
+outputs/
+/outputs
+
+# 场景文件夹
+scene/
+/scene
+
+# Python缓存文件
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# 虚拟环境
+venv/
+env/
+ENV/
+
+# IDE配置
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# 日志文件
+*.log
+
+# 模型文件
+*.pth
+*.pkl
+*.h5
+
+# 数据集文件
+*.zip
+*.tar.gz
+*.rar
