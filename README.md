@@ -1,5 +1,26 @@
 # Transparent Fragments Contour Estimation via Visual–Tactile Fusion for Autonomous Reassembly
 
+[![arXiv](https://img.shields.io/badge/arXiv-2603.20290-b31b1b.svg)](https://arxiv.org/abs/2603.20290)
+
+## Paper
+https://arxiv.org/abs/2603.20290
+
+## Citation
+
+If you find this work useful, please consider citing:
+
+```bibtex
+@misc{lin2026transparentfragmentscontourestimation,
+      title={Transparent Fragments Contour Estimation via Visual-Tactile Fusion for Autonomous Reassembly}, 
+      author={Qihao Lin and Borui Chen and Yuping Zhou and Jianing Wu and Yulan Guo and Weishi Zheng and Chongkun Xia},
+      year={2026},
+      eprint={2603.20290},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV},
+      url={https://arxiv.org/abs/2603.20290}, 
+}
+```
+
 ## Automated Batch Generation of Synthetic Dataset in Blender
 
 Blender provides powerful visual simulation capabilities through physically-based rendering (PBR) and material reflection/refraction, producing results that closely mimic real-world interactions between light and materials. 
